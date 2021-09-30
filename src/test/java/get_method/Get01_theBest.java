@@ -15,7 +15,7 @@ public class Get01_theBest {
               {
                     "firstname": "Adil",
                     "lastname": "Demirleng",
-                    "totalprice": 600,
+                    "totalprice": 800,
                     "depositpaid": true,
                     "bookingdates": {
                                 "checkin": "2021-09-21",
